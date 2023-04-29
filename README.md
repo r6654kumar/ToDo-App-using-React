@@ -1,4 +1,4 @@
 # ToDo App
-    My first React Project.
+My first React Project.
 # Link
-    [Netlify Link](https://todoapp-byrahul.netlify.app/)
+ https://todoapp-byrahul.netlify.app/
