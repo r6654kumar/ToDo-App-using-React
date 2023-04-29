@@ -115,9 +115,6 @@ const ToDo = () => {
               <span>Check List</span>
             </button>
           </div>
-          <div className="github-link">
-            <p>View the <a href="https://github.com/r6654kumar/ToDo-App-using-React"><i className="fab fa-github"></i> Source Code</a></p>
-          </div>
         </div>
       </div>
     </>
